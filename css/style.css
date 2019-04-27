@@ -1,0 +1,147 @@
+/* 
+==================================
+بسم الله الرحمن الرحيم 
+==================================
+*/
+/*
+==================================
+    public style
+==================================
+*/
+* , *:after , *:befor{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    height: 1000px;
+    font: 400 13px arial,sans-serif;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+/*
+=================================
+          Navbar
+=================================
+*/
+.frist{
+    text-align: center;
+    padding-top: 3% ;
+}
+.frist img {
+    background-image: url(../images/Abdullah%20-%20Copy.jpg);
+    background-size: cover;
+    background-position: 3%;
+    width:160px;
+    height:160px;
+    border-radius: 50%;
+    
+}
+.frist h1 {
+    margin : 15px 0;
+    color: #3F59A8 ;
+}
+  /**********************************
+            contact
+*************************************/
+
+.contact{
+    border-top: 2px solid #000 ;
+    border-bottom: 2px solid #000 ;
+    text-align: center;
+    padding: 9px ;
+    font-size: 20px ;
+
+}
+.contact i {
+    color: #3F59A8 ;
+    margin-right: 5px;
+}
+.contact .email{
+    margin-right: 25px;
+}
+
+/*********************************
+             content
+*********************************/
+
+.container .left {
+    width: 45%;
+}
+ .container .right{
+    width: 55%;
+}
+
+.container .left .education , .container .right .right-heading{
+    margin-bottom: 0;
+    color: #3F59A8 ;
+    font-size: 30px;
+}
+.container .left .education-sapn{
+    color:#676767;
+    font-size: 20px ;
+    
+}
+
+.container .left .skills h2{
+    color: #3F59A8 ;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 0;
+}
+.container .left .skills .skills-heading{
+    margin-bottom: 0px;
+    font-size: 22px ;
+}
+.container .left .skills .skills-sapn{
+    font-size: 18px;
+    color:#676767;
+}
+
+.container .right .project{
+    font-size: 22px ;
+    color:#000;
+    margin-bottom: 3px;
+    margin-top: 25px;
+    font-weight: normal
+}
+
+.container .right .project-link ,.project-lang {
+    font-size: 18px;
+/*    font-weight: 500;*/
+}
+
+
+/*++++++++++++++++++++++++++++++++++++++
+                    والحمدلله
+****************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
